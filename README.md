@@ -2,8 +2,6 @@
 
 **Car Price Prediction Model**
 
-Car Price Prediction Model
-
 Project Overview
 
 This project aims to predict the price of cars based on various features such as engine size, curb weight, fuel efficiency, and other attributes. The model uses machine learning techniques, particularly a Random Forest Regressor, to analyze the relationship between car features and price. This model can be used by businesses in the automotive industry to understand the factors influencing car prices and to optimize design and pricing strategies for different markets.
